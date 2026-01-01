@@ -3,6 +3,7 @@ public class Student {
     String name;
     String age;
     String section;
+    String raw;
     public String getName() {
         return name;
     }
